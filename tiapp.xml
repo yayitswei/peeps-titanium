@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>pp.pp</id>
+<name>peeps_titanium</name>
+<version>1.0</version>
+<publisher>wei</publisher>
+<url>test</url>
+<description>No description provided</description>
+<copyright>2010 by wei</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <analytics>true</analytics>
+<guid>a55f0362-a05f-4591-ae89-9d706ac0fd03</guid>
+</ti:app>
