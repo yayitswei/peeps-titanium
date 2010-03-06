@@ -19,7 +19,7 @@ xhr.onload = function()
 };
 
 // open the client
-xhr.open('GET','http://peeps.local/contacts/overdue.json');
+xhr.open('GET','http://dawn.kicks-ass.org/contacts/overdue.json');
 
 // send the data
 xhr.send();
